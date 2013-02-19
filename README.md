@@ -20,4 +20,4 @@
 请参看已有章节的规范，要注意的是，每个章节在底部都需要有一个links节，包含“目录”，“上一节”和“下一节”的链接。
 
 ## 开始阅读
-[开始阅读](<https://gitcafe.com/quanke/programmers_notes/blob/master/catalogue.md>)
+[开始阅读](catalogue.md)
